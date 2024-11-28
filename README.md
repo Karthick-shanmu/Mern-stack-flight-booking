@@ -4,13 +4,6 @@
 
 The **Flight Booking App** is a comprehensive platform built with the MERN stack that allows users to search for flights, book tickets, and manage their bookings with ease. It features secure user authentication, a dynamic search interface, and an admin panel for managing flights and bookings.
 
-### Team Members
-- Niveditha S G – MongoDB
-- Shobia T R – Node.js
-- Vinothini R – Express.js
-- Nandhini V M – React.js
-- Nandini B – Node.js
-
 ## Features
 
 - **Flight Search**: Allows users to find flights by selecting origin, destination, and travel dates.
